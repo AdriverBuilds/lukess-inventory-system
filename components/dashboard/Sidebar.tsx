@@ -25,22 +25,22 @@ const navLinks = [
   },
   {
     label: "Inventario",
-    href: "/inventory",
+    href: "/inventario",
     icon: Package,
   },
   {
     label: "Ventas",
-    href: "/sales",
+    href: "/ventas",
     icon: ShoppingCart,
   },
   {
     label: "Reportes",
-    href: "/reports",
+    href: "/reportes",
     icon: BarChart3,
   },
   {
     label: "Configuración",
-    href: "/settings",
+    href: "/configuracion",
     icon: Settings,
   },
 ];
